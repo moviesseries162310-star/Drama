@@ -972,10 +972,10 @@
     "id": "gdrive-folder:1c2fzoSXhy12bq5S46KAvpAjAYn9FhntO",
     "type": "movie",
     "name": "Broken Lives",
-    "poster": "https://image.tmdb.org/t/p/w500/y10ET9I0xCILEBWnnwb1TnzxTuC.jpg",
-    "description": "",
-    "background": null,
-    "released": "1935-01-01",
-    "imdbRating": null
+    "poster": "https://image.tmdb.org/t/p/original/vCr00cZudXBp1pvmbCtufwJyTlf.jpg",
+    "description": "The Turkish television series Kirik Hayatlar (2021–2022) is a romantic drama that centers on the sacrifices two young lovers make for their love and the lengths a mother will go to achieve power and prosperity within the Kocabey Mansion.",
+    "background": "https://image.tmdb.org/t/p/original/6numLCWTUL5oBwgIPcCHhuxr1fQ.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "6.0"
   }
 ]
