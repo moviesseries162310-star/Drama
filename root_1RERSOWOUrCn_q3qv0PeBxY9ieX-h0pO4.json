@@ -2284,5 +2284,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/4tG2OvjDu6uU4AHSrd6y6VglluY.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.2"
+  },
+  {
+    "id": "gdrive-folder:14D4UuUWqvpbuJbr1iXppiE5sqBSsG2iM",
+    "type": "movie",
+    "name": "Idol I",
+    "poster": "https://image.tmdb.org/t/p/w500/mTD8dUdfr6Pr1Y5TxAIFhF4apU6.jpg",
+    "description": "Maeng Se-na, a top star criminal lawyer who has been a fangirl for fifteen years, tries to prove her favorite idol’s innocence, who is suspected of murder.",
+    "background": "https://image.tmdb.org/t/p/w1280/ilTl0g138RAgM1TEeCaPKl1FxSh.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.0"
   }
 ]
