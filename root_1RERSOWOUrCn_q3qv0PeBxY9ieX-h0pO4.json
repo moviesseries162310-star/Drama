@@ -2304,5 +2304,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/pbYUUnLT5eZ1aTpGVd5PJZkdfda.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1m2BTF8w4khPNo2f1bookE5J5mSDXJbZP",
+    "type": "movie",
+    "name": "Made in Korea",
+    "poster": "https://image.tmdb.org/t/p/w500/q9ZRQN98L2OvYP00mIlv4oPPfOU.jpg",
+    "description": "In 1970s South Korea, follow two men on opposite sides of power — one driven by ambition, the other by justice. As their worlds collide, greed, loyalty, and survival intertwine in a battle that will shape a nation.",
+    "background": "https://image.tmdb.org/t/p/w1280/42RCEkRkfvafglUsXD6kN1S9nwP.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
