@@ -4407,5 +4407,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/hFh4ThauKlFGlhQveVu1KVOq3Ac.jpg",
     "released": "2025-01-01",
     "imdbRating": "10.0"
+  },
+  {
+    "id": "gdrive-folder:1ZVIAls9BTSkX6Pj03OE1bJH1YIVSpoP-",
+    "type": "movie",
+    "name": "Jewel in the Palace",
+    "poster": "https://image.tmdb.org/t/p/w500/oiDr9sZPluqKJH8o0vuX5Dh61dh.jpg",
+    "description": "Orphaned Jang-geum becomes the first female physician in the Joseon Dynasty and her determination is tested when people around her start showing their true faces.",
+    "background": "https://image.tmdb.org/t/p/w1280/mkmlUSTmOb2LI5A6aU1gHaRDElG.jpg",
+    "released": "2003-01-01",
+    "imdbRating": "8.5"
   }
 ]
