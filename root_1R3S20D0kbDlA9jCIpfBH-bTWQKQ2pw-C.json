@@ -4477,5 +4477,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/yuTmSCEE5ovCF7bOCwBuv1ecIeF.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive-folder:1JIXxuB5wf6BIzfJzIS0xQclh__Jko18e",
+    "type": "movie",
+    "name": "Love in a Loop",
+    "poster": "https://image.tmdb.org/t/p/w500/l88ZG1hftMlb6DEn2OgfytcMrs8.jpg",
+    "description": "The rude and narcissistic boss Bai Zhen Xiang is constantly dying because of the resentment of his employees. Every time he dies, the time is reset to the same day, which causes his employee Li Lu Duo to be trapped…",
+    "background": "https://image.tmdb.org/t/p/w1280/f6X9t3hpnZkZjhUyhv6vKi9AApr.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "5.0"
   }
 ]
