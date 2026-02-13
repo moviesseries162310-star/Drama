@@ -4557,5 +4557,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qy8gJEwspR7L5WZn4e8ItwK8m23.jpg",
     "released": "2026-01-01",
     "imdbRating": "9.5"
+  },
+  {
+    "id": "gdrive-folder:1rojmNjPUVB18rdPFO0lXUqXtuYRQ-CcA",
+    "type": "movie",
+    "name": "Wanna Be",
+    "poster": "https://image.tmdb.org/t/p/w500/3o8KkHBRAItMBjtdG35GImmsttp.jpg",
+    "description": "Jia Fan, a humble seafood shop worker, unexpectedly steps into the modeling world and clashes with supermodel Han Yijing. Despite their initial conflicts, they grow closer as Han Yijing softens and Jia Fan transforms into a star model. Just as their paths converge, an unexpected twist challenges their newfound connection.",
+    "background": "https://image.tmdb.org/t/p/w1280/gyulnz9WchQFX977nSQ2oTj2Kem.jpg",
+    "released": "2025-01-01",
+    "imdbRating": null
   }
 ]
