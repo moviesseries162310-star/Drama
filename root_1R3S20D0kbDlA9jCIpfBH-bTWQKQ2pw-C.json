@@ -4577,5 +4577,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qfi5qzrJNo8TFf0TYhz5QetrOji.jpg",
     "released": "2020-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1GIafgYhnJsCYBfUFwMrdBppqXShdBc54",
+    "type": "movie",
+    "name": "True Beauty",
+    "poster": "https://image.tmdb.org/t/p/w500/kst64PWtzQZpnrdOAJY2NWkFeHE.jpg",
+    "description": "Lim Ju-kyung is a high school student. Since she was little, she has had a complex about her appearance. To hide her bare face, Ju-kyung always wears make-up. Her excellent make-up skills make her pretty and she hides her bare face in front of others. She gets involved with 2 men; Lee Su-ho and Han Seo-jun.",
+    "background": "https://image.tmdb.org/t/p/w1280/A9OMk9nybfRQUX7ds8rpd4lmdaE.jpg",
+    "released": "2020-01-01",
+    "imdbRating": "8.2"
   }
 ]
