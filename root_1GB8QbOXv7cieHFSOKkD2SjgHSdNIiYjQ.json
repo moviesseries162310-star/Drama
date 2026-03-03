@@ -977,5 +977,15 @@
     "background": "https://image.tmdb.org/t/p/original/6numLCWTUL5oBwgIPcCHhuxr1fQ.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.0"
+  },
+  {
+    "id": "gdrive-folder:1Sh0wg922ChFczQDCxH2dSq6sx2SpI0V1",
+    "type": "movie",
+    "name": "Winds of Love",
+    "poster": "https://image.tmdb.org/t/p/w500/vGrrdx21rS69tl55mxpl9pn9ebx.jpg",
+    "description": "Zeynep is the smart, well-behaved, exemplary daughter of the wealthiest family in the town where she lives, while Halil is a young man who lost his mother and father at an early age and lives with his aunt with a grudge to avenge his family. These two young people who live despite their families will find themselves in an unthinkable blind knot.",
+    "background": "https://image.tmdb.org/t/p/w1280/wqebNDaopLixqxeQRDaqhNfy866.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.6"
   }
 ]
